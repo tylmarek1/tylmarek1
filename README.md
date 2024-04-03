@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @tylmarek1
-- 👀 I’m interested in C#, C, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @tylmarek1
+- I’m interested in C#, C, C++
 
 <!---
 tylmarek1/tylmarek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
