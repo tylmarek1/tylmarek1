@@ -1,5 +1,5 @@
 - Hi, I’m @tylmarek1
-- I’m interested in C#, C, C++
+- I have experience in C#, C/C++, Python, Typescript/React
 
 <!---
 tylmarek1/tylmarek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
