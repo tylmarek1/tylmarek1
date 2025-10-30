@@ -3,7 +3,7 @@
 Software engineer and CS student. Worked on WMS and AI applications.
 
 ## Skills
-- Languages: <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET/C#" height="14" /> C#, <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="14" /> C/C++, <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="14" /> Python, <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="14" /> TypeScript
+- Languages: <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="14" /> TypeScript, <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET/C#" height="14" /> C#, <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="14" /> C/C++, <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="14" /> Python
 
 - Frontend: <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="14" /> React, <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" height="14" /> Vite
 
